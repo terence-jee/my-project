@@ -1,6 +1,6 @@
 {
-  "name": "my-project",
-  "version": "1.0.4",
+  "name": "@terence-jee/my-project",
+  "version": "1.0.5",
   "description": "This is just a test",
   "main": "index.js",
   "scripts": {
