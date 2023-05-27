@@ -1,0 +1,22 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "This is just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terence-jee/my-project.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "terence.jee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terence-jee/my-project/issues"
+  },
+  "homepage": "https://github.com/terence-jee/my-project#readme"
+}
